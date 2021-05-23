@@ -1,3 +1,16 @@
+## Navigation
+
+##### Strategy Cube Project
+Link: https://github.com/cpr016-hobby-projects/Strategy-Cube-Project
+
+##### Finis Bot
+Link: https://github.com/cpr016-hobby-projects/Finis-Bot
+
+##### Ghost Mod
+Link: https://github.com/cpr016-hobby-projects/Ghost-Mod
+
+---
+
 # Strategy-Cube-Project
 ## Tools Used: Unity, C#
 ## Description:
